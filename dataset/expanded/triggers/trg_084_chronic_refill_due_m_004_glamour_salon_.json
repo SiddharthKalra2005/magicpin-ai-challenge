@@ -1,0 +1,19 @@
+{
+  "id": "trg_084_chronic_refill_due_m_004_glamour_salon_",
+  "scope": "customer",
+  "kind": "chronic_refill_due",
+  "source": "internal",
+  "merchant_id": "m_004_glamour_salon_pune",
+  "customer_id": "c_024_aditya_for_m_004_glamour_salon_pune",
+  "payload": {
+    "molecule_list": [
+      "Amlodipine 5mg",
+      "Telmisartan 40mg"
+    ],
+    "stock_runs_out_iso": "2026-11-05",
+    "delivery_address_saved": true
+  },
+  "urgency": 2,
+  "suppression_key": "chronic_refill_due:m_004_glamour_salon_pune:gen_84",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

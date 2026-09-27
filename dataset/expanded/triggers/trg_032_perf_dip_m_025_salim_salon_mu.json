@@ -1,0 +1,19 @@
+{
+  "id": "trg_032_perf_dip_m_025_salim_salon_mu",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "merchant_id": "m_025_salim_salon_mumbai",
+  "customer_id": null,
+  "payload": {
+    "metric": "ctr",
+    "delta_pct": -0.11,
+    "vs_baseline": 4236,
+    "likely_driver": "competitor price cut",
+    "is_expected_seasonal": false,
+    "season_note": ""
+  },
+  "urgency": 3,
+  "suppression_key": "perf_dip:m_025_salim_salon_mumbai:gen_32",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

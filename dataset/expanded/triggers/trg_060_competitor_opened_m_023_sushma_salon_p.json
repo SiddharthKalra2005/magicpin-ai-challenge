@@ -1,0 +1,16 @@
+{
+  "id": "trg_060_competitor_opened_m_023_sushma_salon_p",
+  "scope": "merchant",
+  "kind": "competitor_opened",
+  "source": "external",
+  "merchant_id": "m_023_sushma_salon_pune",
+  "customer_id": null,
+  "payload": {
+    "competitor_name": "Glam Studio",
+    "distance_km": 2.4,
+    "their_offer": "20% off first visit"
+  },
+  "urgency": 2,
+  "suppression_key": "competitor_opened:m_023_sushma_salon_pune:gen_60",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

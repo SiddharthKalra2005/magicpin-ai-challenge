@@ -1,0 +1,19 @@
+{
+  "id": "trg_031_perf_dip_m_044_vinod_pharmaci",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "merchant_id": "m_044_vinod_pharmacie_chennai",
+  "customer_id": null,
+  "payload": {
+    "metric": "calls",
+    "delta_pct": -0.25,
+    "vs_baseline": 4029,
+    "likely_driver": "stale profile",
+    "is_expected_seasonal": false,
+    "season_note": "post-holiday lull"
+  },
+  "urgency": 3,
+  "suppression_key": "perf_dip:m_044_vinod_pharmacie_chennai:gen_31",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

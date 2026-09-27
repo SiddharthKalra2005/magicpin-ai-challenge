@@ -1,0 +1,184 @@
+{
+  "pairs": [
+    {
+      "test_id": "T01",
+      "trigger_id": "trg_013_corporate_thali_planning",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "customer_id": null
+    },
+    {
+      "test_id": "T02",
+      "trigger_id": "trg_016_kids_yoga_program_drafting",
+      "merchant_id": "m_008_zenyoga_gym_chennai",
+      "customer_id": null
+    },
+    {
+      "test_id": "T03",
+      "trigger_id": "trg_076_appointment_tomorrow_m_012_dr_karthik_den",
+      "merchant_id": "m_012_dr_karthik_dentist_mumbai",
+      "customer_id": "c_046_myra_for_m_012_dr_karthik_dentist_mumbai"
+    },
+    {
+      "test_id": "T04",
+      "trigger_id": "trg_077_appointment_tomorrow_m_045_vinod_pharmaci",
+      "merchant_id": "m_045_vinod_pharmacie_mumbai",
+      "customer_id": "c_180_diya_for_m_045_vinod_pharmacie_mumbai"
+    },
+    {
+      "test_id": "T05",
+      "trigger_id": "trg_020_summer_demand_shift",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "customer_id": null
+    },
+    {
+      "test_id": "T06",
+      "trigger_id": "trg_022_cde_webinar_dentists",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "customer_id": null
+    },
+    {
+      "test_id": "T07",
+      "trigger_id": "trg_019_chronic_refill_grandfather",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "customer_id": "c_013_grandfather_for_m009"
+    },
+    {
+      "test_id": "T08",
+      "trigger_id": "trg_081_chronic_refill_due_m_045_vinod_pharmaci",
+      "merchant_id": "m_045_vinod_pharmacie_mumbai",
+      "customer_id": "c_179_aadhya_for_m_045_vinod_pharmacie_mumbai"
+    },
+    {
+      "test_id": "T09",
+      "trigger_id": "trg_023_competitor_opened_dentist",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "customer_id": null
+    },
+    {
+      "test_id": "T10",
+      "trigger_id": "trg_056_competitor_opened_m_009_apollo_pharmac",
+      "merchant_id": "m_009_apollo_pharmacy_jaipur",
+      "customer_id": null
+    },
+    {
+      "test_id": "T11",
+      "trigger_id": "trg_008_curious_ask_studio11",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "customer_id": null
+    },
+    {
+      "test_id": "T12",
+      "trigger_id": "trg_096_curious_ask_due_m_003_studio11_salon",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "customer_id": null
+    },
+    {
+      "test_id": "T13",
+      "trigger_id": "trg_015_winback_rashmi",
+      "merchant_id": "m_007_powerhouse_gym_bangalore",
+      "customer_id": "c_010_rashmi_for_m007"
+    },
+    {
+      "test_id": "T14",
+      "trigger_id": "trg_071_customer_lapsed_soft_m_002_bharat_dentist",
+      "merchant_id": "m_002_bharat_dentist_mumbai",
+      "customer_id": "c_020_riya_for_m_002_bharat_dentist_mumbai"
+    },
+    {
+      "test_id": "T15",
+      "trigger_id": "trg_072_customer_lapsed_soft_m_014_dr_asha_dentis",
+      "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+      "customer_id": "c_055_reyansh_for_m_014_dr_asha_dentist_chandigarh"
+    },
+    {
+      "test_id": "T16",
+      "trigger_id": "trg_025_dormancy_glamour",
+      "merchant_id": "m_004_glamour_salon_pune",
+      "customer_id": null
+    },
+    {
+      "test_id": "T17",
+      "trigger_id": "trg_046_dormant_with_vera_m_006_southindiancaf",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "customer_id": null
+    },
+    {
+      "test_id": "T18",
+      "trigger_id": "trg_006_festival_diwali",
+      "merchant_id": "m_003_studio11_salon_hyderabad",
+      "customer_id": null
+    },
+    {
+      "test_id": "T19",
+      "trigger_id": "trg_061_festival_upcoming_m_033_anand_restaura",
+      "merchant_id": "m_033_anand_restaurant_bangalore",
+      "customer_id": null
+    },
+    {
+      "test_id": "T20",
+      "trigger_id": "trg_021_unverified_gbp_sunrise",
+      "merchant_id": "m_010_sunrisepharm_pharmacy_lucknow",
+      "customer_id": null
+    },
+    {
+      "test_id": "T21",
+      "trigger_id": "trg_010_ipl_match_delhi",
+      "merchant_id": "m_005_pizzajunction_restaurant_delhi",
+      "customer_id": null
+    },
+    {
+      "test_id": "T22",
+      "trigger_id": "trg_012_milestone_mylari",
+      "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+      "customer_id": null
+    },
+    {
+      "test_id": "T23",
+      "trigger_id": "trg_041_milestone_reached_m_038_pooja_gym_chan",
+      "merchant_id": "m_038_pooja_gym_chandigarh",
+      "customer_id": null
+    },
+    {
+      "test_id": "T24",
+      "trigger_id": "trg_004_perf_dip_bharat",
+      "merchant_id": "m_002_bharat_dentist_mumbai",
+      "customer_id": null
+    },
+    {
+      "test_id": "T25",
+      "trigger_id": "trg_031_perf_dip_m_044_vinod_pharmaci",
+      "merchant_id": "m_044_vinod_pharmacie_chennai",
+      "customer_id": null
+    },
+    {
+      "test_id": "T26",
+      "trigger_id": "trg_024_perf_spike_zen",
+      "merchant_id": "m_008_zenyoga_gym_chennai",
+      "customer_id": null
+    },
+    {
+      "test_id": "T27",
+      "trigger_id": "trg_036_perf_spike_m_039_karan_gym_jaip",
+      "merchant_id": "m_039_karan_gym_jaipur",
+      "customer_id": null
+    },
+    {
+      "test_id": "T28",
+      "trigger_id": "trg_003_recall_due_priya",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "customer_id": "c_001_priya_for_m001"
+    },
+    {
+      "test_id": "T29",
+      "trigger_id": "trg_066_recall_due_m_016_dr_rajan_denti",
+      "merchant_id": "m_016_dr_rajan_dentist_pune",
+      "customer_id": "c_062_riya_for_m_016_dr_rajan_dentist_pune"
+    },
+    {
+      "test_id": "T30",
+      "trigger_id": "trg_002_compliance_dci_radiograph",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "customer_id": null
+    }
+  ]
+}

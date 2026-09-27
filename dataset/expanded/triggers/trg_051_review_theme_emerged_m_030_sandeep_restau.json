@@ -1,0 +1,17 @@
+{
+  "id": "trg_051_review_theme_emerged_m_030_sandeep_restau",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+  "customer_id": null,
+  "payload": {
+    "theme": "portion size",
+    "occurrences_30d": 8,
+    "trend": "stable",
+    "common_quote": "Consistently mentioned portion size in recent reviews"
+  },
+  "urgency": 3,
+  "suppression_key": "review_theme_emerged:m_030_sandeep_restaurant_chandigarh:gen_51",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

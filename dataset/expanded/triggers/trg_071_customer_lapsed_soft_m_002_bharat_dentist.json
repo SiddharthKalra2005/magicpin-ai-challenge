@@ -1,0 +1,15 @@
+{
+  "id": "trg_071_customer_lapsed_soft_m_002_bharat_dentist",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "merchant_id": "m_002_bharat_dentist_mumbai",
+  "customer_id": "c_020_riya_for_m_002_bharat_dentist_mumbai",
+  "payload": {
+    "days_since_last_visit": 178,
+    "previous_focus": "whitening"
+  },
+  "urgency": 3,
+  "suppression_key": "customer_lapsed_soft:m_002_bharat_dentist_mumbai:gen_71",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

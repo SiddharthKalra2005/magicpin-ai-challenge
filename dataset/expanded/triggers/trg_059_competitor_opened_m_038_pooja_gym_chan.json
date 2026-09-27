@@ -1,0 +1,16 @@
+{
+  "id": "trg_059_competitor_opened_m_038_pooja_gym_chan",
+  "scope": "merchant",
+  "kind": "competitor_opened",
+  "source": "external",
+  "merchant_id": "m_038_pooja_gym_chandigarh",
+  "customer_id": null,
+  "payload": {
+    "competitor_name": "Flex Studio",
+    "distance_km": 0.9,
+    "their_offer": "No joining fee"
+  },
+  "urgency": 2,
+  "suppression_key": "competitor_opened:m_038_pooja_gym_chandigarh:gen_59",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

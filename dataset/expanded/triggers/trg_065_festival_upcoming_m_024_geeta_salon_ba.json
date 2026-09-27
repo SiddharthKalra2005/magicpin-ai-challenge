@@ -1,0 +1,15 @@
+{
+  "id": "trg_065_festival_upcoming_m_024_geeta_salon_ba",
+  "scope": "merchant",
+  "kind": "festival_upcoming",
+  "source": "external",
+  "merchant_id": "m_024_geeta_salon_bangalore",
+  "customer_id": null,
+  "payload": {
+    "festival": "Navratri",
+    "days_until": 16
+  },
+  "urgency": 1,
+  "suppression_key": "festival_upcoming:m_024_geeta_salon_bangalore:gen_65",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trg_079_appointment_tomorrow_m_008_zenyoga_gym_ch",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "merchant_id": "m_008_zenyoga_gym_chennai",
+  "customer_id": "c_035_diya_for_m_008_zenyoga_gym_chennai",
+  "payload": {
+    "service": "yoga class",
+    "slot_label": "11:30 AM",
+    "time": "11:30 AM"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_008_zenyoga_gym_chennai:gen_79",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

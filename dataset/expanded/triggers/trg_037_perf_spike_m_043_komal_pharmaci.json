@@ -1,0 +1,17 @@
+{
+  "id": "trg_037_perf_spike_m_043_komal_pharmaci",
+  "scope": "merchant",
+  "kind": "perf_spike",
+  "source": "internal",
+  "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+  "customer_id": null,
+  "payload": {
+    "metric": "views",
+    "delta_pct": 0.53,
+    "vs_baseline": 3879,
+    "likely_driver": "google post went viral"
+  },
+  "urgency": 1,
+  "suppression_key": "perf_spike:m_043_komal_pharmacie_ahmedabad:gen_37",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

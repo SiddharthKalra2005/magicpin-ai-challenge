@@ -1,0 +1,16 @@
+{
+  "id": "trg_044_milestone_reached_m_006_southindiancaf",
+  "scope": "merchant",
+  "kind": "milestone_reached",
+  "source": "internal",
+  "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+  "customer_id": null,
+  "payload": {
+    "metric": "reviews",
+    "value_now": 499,
+    "milestone_value": 500
+  },
+  "urgency": 1,
+  "suppression_key": "milestone_reached:m_006_southindiancafe_restaurant_bangalore:gen_44",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

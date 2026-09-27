@@ -1,0 +1,18 @@
+{
+  "id": "trg_081_chronic_refill_due_m_045_vinod_pharmaci",
+  "scope": "customer",
+  "kind": "chronic_refill_due",
+  "source": "internal",
+  "merchant_id": "m_045_vinod_pharmacie_mumbai",
+  "customer_id": "c_179_aadhya_for_m_045_vinod_pharmacie_mumbai",
+  "payload": {
+    "molecule_list": [
+      "Pantoprazole 40mg"
+    ],
+    "stock_runs_out_iso": "2026-11-05",
+    "delivery_address_saved": false
+  },
+  "urgency": 2,
+  "suppression_key": "chronic_refill_due:m_045_vinod_pharmacie_mumbai:gen_81",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

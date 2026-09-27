@@ -1,0 +1,19 @@
+{
+  "id": "trg_035_perf_dip_m_037_pooja_gym_bang",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "merchant_id": "m_037_pooja_gym_bangalore",
+  "customer_id": null,
+  "payload": {
+    "metric": "calls",
+    "delta_pct": -0.23,
+    "vs_baseline": 6133,
+    "likely_driver": "reduced ad spend",
+    "is_expected_seasonal": true,
+    "season_note": ""
+  },
+  "urgency": 3,
+  "suppression_key": "perf_dip:m_037_pooja_gym_bangalore:gen_35",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "trg_040_perf_spike_m_003_studio11_salon",
+  "scope": "merchant",
+  "kind": "perf_spike",
+  "source": "internal",
+  "merchant_id": "m_003_studio11_salon_hyderabad",
+  "customer_id": null,
+  "payload": {
+    "metric": "calls",
+    "delta_pct": 0.46,
+    "vs_baseline": 4093,
+    "likely_driver": "competitor closed"
+  },
+  "urgency": 1,
+  "suppression_key": "perf_spike:m_003_studio11_salon_hyderabad:gen_40",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

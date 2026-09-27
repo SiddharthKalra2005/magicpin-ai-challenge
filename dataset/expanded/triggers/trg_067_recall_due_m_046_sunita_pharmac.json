@@ -1,0 +1,25 @@
+{
+  "id": "trg_067_recall_due_m_046_sunita_pharmac",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_046_sunita_pharmacie_lucknow",
+  "customer_id": "c_184_myra_for_m_046_sunita_pharmacie_lucknow",
+  "payload": {
+    "service_due": "monthly BP check",
+    "last_service_date": "2026-04-01",
+    "available_slots": [
+      {
+        "label": "Wed 14 Nov, 6pm",
+        "iso": "2026-11-14T18:00:00Z"
+      },
+      {
+        "label": "Thu 15 Nov, 5pm",
+        "iso": "2026-11-15T17:00:00Z"
+      }
+    ]
+  },
+  "urgency": 3,
+  "suppression_key": "recall_due:m_046_sunita_pharmacie_lucknow:gen_67",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

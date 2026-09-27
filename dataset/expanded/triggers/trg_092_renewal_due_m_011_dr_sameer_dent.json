@@ -1,0 +1,16 @@
+{
+  "id": "trg_092_renewal_due_m_011_dr_sameer_dent",
+  "scope": "merchant",
+  "kind": "renewal_due",
+  "source": "internal",
+  "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+  "customer_id": null,
+  "payload": {
+    "days_remaining": 0,
+    "plan": "Pro",
+    "renewal_amount": 2999
+  },
+  "urgency": 4,
+  "suppression_key": "renewal_due:m_011_dr_sameer_dentist_bangalore:gen_92",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

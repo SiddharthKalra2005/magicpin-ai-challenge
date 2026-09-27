@@ -1,0 +1,16 @@
+{
+  "id": "trg_058_competitor_opened_m_007_powerhouse_gym",
+  "scope": "merchant",
+  "kind": "competitor_opened",
+  "source": "external",
+  "merchant_id": "m_007_powerhouse_gym_bangalore",
+  "customer_id": null,
+  "payload": {
+    "competitor_name": "FitFusion",
+    "distance_km": 0.7,
+    "their_offer": "No joining fee"
+  },
+  "urgency": 2,
+  "suppression_key": "competitor_opened:m_007_powerhouse_gym_bangalore:gen_58",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

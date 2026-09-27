@@ -1,0 +1,25 @@
+{
+  "id": "trg_068_recall_due_m_041_akash_gym_hyde",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_041_akash_gym_hyderabad",
+  "customer_id": "c_162_aarav_for_m_041_akash_gym_hyderabad",
+  "payload": {
+    "service_due": "quarterly fitness assessment",
+    "last_service_date": "2026-04-01",
+    "available_slots": [
+      {
+        "label": "Wed 15 Nov, 6pm",
+        "iso": "2026-11-15T18:00:00Z"
+      },
+      {
+        "label": "Thu 16 Nov, 5pm",
+        "iso": "2026-11-16T17:00:00Z"
+      }
+    ]
+  },
+  "urgency": 3,
+  "suppression_key": "recall_due:m_041_akash_gym_hyderabad:gen_68",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

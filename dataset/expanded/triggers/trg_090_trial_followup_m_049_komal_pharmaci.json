@@ -1,0 +1,24 @@
+{
+  "id": "trg_090_trial_followup_m_049_komal_pharmaci",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_049_komal_pharmacie_lucknow",
+  "customer_id": "c_196_saanvi_for_m_049_komal_pharmacie_lucknow",
+  "payload": {
+    "trial_date": "2026-10-25",
+    "next_session_options": [
+      {
+        "label": "Mon 21 Nov, 7pm",
+        "iso": "2026-11-21T19:00:00Z"
+      },
+      {
+        "label": "Wed 23 Nov, 6pm",
+        "iso": "2026-11-23T18:00:00Z"
+      }
+    ]
+  },
+  "urgency": 2,
+  "suppression_key": "trial_followup:m_049_komal_pharmacie_lucknow:gen_90",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

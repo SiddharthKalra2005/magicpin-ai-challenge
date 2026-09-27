@@ -1,0 +1,25 @@
+{
+  "id": "trg_069_recall_due_m_029_anand_restaura",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_029_anand_restaurant_chandigarh",
+  "customer_id": "c_113_aryan_for_m_029_anand_restaurant_chandigarh",
+  "payload": {
+    "service_due": "follow-up",
+    "last_service_date": "2026-04-01",
+    "available_slots": [
+      {
+        "label": "Wed 14 Nov, 6pm",
+        "iso": "2026-11-14T18:00:00Z"
+      },
+      {
+        "label": "Thu 15 Nov, 5pm",
+        "iso": "2026-11-15T17:00:00Z"
+      }
+    ]
+  },
+  "urgency": 3,
+  "suppression_key": "recall_due:m_029_anand_restaurant_chandigarh:gen_69",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "trg_052_review_theme_emerged_m_042_pooja_gym_pune",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "merchant_id": "m_042_pooja_gym_pune",
+  "customer_id": null,
+  "payload": {
+    "theme": "cleanliness",
+    "occurrences_30d": 9,
+    "trend": "stable",
+    "common_quote": "Consistently mentioned cleanliness in recent reviews"
+  },
+  "urgency": 3,
+  "suppression_key": "review_theme_emerged:m_042_pooja_gym_pune:gen_52",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

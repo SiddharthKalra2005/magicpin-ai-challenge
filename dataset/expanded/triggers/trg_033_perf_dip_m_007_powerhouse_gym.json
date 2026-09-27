@@ -1,0 +1,19 @@
+{
+  "id": "trg_033_perf_dip_m_007_powerhouse_gym",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "merchant_id": "m_007_powerhouse_gym_bangalore",
+  "customer_id": null,
+  "payload": {
+    "metric": "views",
+    "delta_pct": -0.16,
+    "vs_baseline": 1193,
+    "likely_driver": "seasonal pattern",
+    "is_expected_seasonal": false,
+    "season_note": ""
+  },
+  "urgency": 3,
+  "suppression_key": "perf_dip:m_007_powerhouse_gym_bangalore:gen_33",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

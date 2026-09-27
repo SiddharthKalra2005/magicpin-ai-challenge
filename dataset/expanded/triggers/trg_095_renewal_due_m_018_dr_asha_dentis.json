@@ -1,0 +1,16 @@
+{
+  "id": "trg_095_renewal_due_m_018_dr_asha_dentis",
+  "scope": "merchant",
+  "kind": "renewal_due",
+  "source": "internal",
+  "merchant_id": "m_018_dr_asha_dentist_ahmedabad",
+  "customer_id": null,
+  "payload": {
+    "days_remaining": 159,
+    "plan": "Pro",
+    "renewal_amount": 2999
+  },
+  "urgency": 4,
+  "suppression_key": "renewal_due:m_018_dr_asha_dentist_ahmedabad:gen_95",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

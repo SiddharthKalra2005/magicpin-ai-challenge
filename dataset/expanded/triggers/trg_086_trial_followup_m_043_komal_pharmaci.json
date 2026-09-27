@@ -1,0 +1,24 @@
+{
+  "id": "trg_086_trial_followup_m_043_komal_pharmaci",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_043_komal_pharmacie_ahmedabad",
+  "customer_id": "c_172_myra_for_m_043_komal_pharmacie_ahmedabad",
+  "payload": {
+    "trial_date": "2026-10-25",
+    "next_session_options": [
+      {
+        "label": "Mon 16 Nov, 7pm",
+        "iso": "2026-11-16T19:00:00Z"
+      },
+      {
+        "label": "Wed 18 Nov, 6pm",
+        "iso": "2026-11-18T18:00:00Z"
+      }
+    ]
+  },
+  "urgency": 2,
+  "suppression_key": "trial_followup:m_043_komal_pharmacie_ahmedabad:gen_86",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

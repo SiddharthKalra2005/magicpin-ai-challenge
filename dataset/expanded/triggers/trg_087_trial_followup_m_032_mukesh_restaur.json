@@ -1,0 +1,24 @@
+{
+  "id": "trg_087_trial_followup_m_032_mukesh_restaur",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_032_mukesh_restaurant_pune",
+  "customer_id": "c_127_myra_for_m_032_mukesh_restaurant_pune",
+  "payload": {
+    "trial_date": "2026-10-25",
+    "next_session_options": [
+      {
+        "label": "Mon 6 Nov, 7pm",
+        "iso": "2026-11-06T19:00:00Z"
+      },
+      {
+        "label": "Wed 8 Nov, 6pm",
+        "iso": "2026-11-08T18:00:00Z"
+      }
+    ]
+  },
+  "urgency": 2,
+  "suppression_key": "trial_followup:m_032_mukesh_restaurant_pune:gen_87",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

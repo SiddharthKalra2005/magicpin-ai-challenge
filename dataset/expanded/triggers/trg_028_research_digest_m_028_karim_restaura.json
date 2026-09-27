@@ -1,0 +1,19 @@
+{
+  "id": "trg_028_research_digest_m_028_karim_restaura",
+  "scope": "merchant",
+  "kind": "research_digest",
+  "source": "external",
+  "merchant_id": "m_028_karim_restaurant_chennai",
+  "customer_id": null,
+  "payload": {
+    "category": "restaurants",
+    "top_item_id": "d_2026W22_rest_digest",
+    "title": "QR-menu adoption correlated with 14% higher average check",
+    "source": "Dineout Insights 2026, p.11",
+    "trial_n": null,
+    "patient_segment": "dine_in"
+  },
+  "urgency": 1,
+  "suppression_key": "research_digest:m_028_karim_restaurant_chennai:gen_28",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

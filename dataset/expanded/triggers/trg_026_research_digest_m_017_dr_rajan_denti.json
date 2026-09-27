@@ -1,0 +1,19 @@
+{
+  "id": "trg_026_research_digest_m_017_dr_rajan_denti",
+  "scope": "merchant",
+  "kind": "research_digest",
+  "source": "external",
+  "merchant_id": "m_017_dr_rajan_dentist_mumbai",
+  "customer_id": null,
+  "payload": {
+    "category": "dentists",
+    "top_item_id": "d_2026W20_dent_digest",
+    "title": "3-month fluoride recall cuts caries 38% better than 6-month",
+    "source": "JIDA Oct 2026, p.14",
+    "trial_n": 2100,
+    "patient_segment": "high_risk_adults"
+  },
+  "urgency": 1,
+  "suppression_key": "research_digest:m_017_dr_rajan_dentist_mumbai:gen_26",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

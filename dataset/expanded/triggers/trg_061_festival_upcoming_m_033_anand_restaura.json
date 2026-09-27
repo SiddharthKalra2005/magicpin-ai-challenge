@@ -1,0 +1,15 @@
+{
+  "id": "trg_061_festival_upcoming_m_033_anand_restaura",
+  "scope": "merchant",
+  "kind": "festival_upcoming",
+  "source": "external",
+  "merchant_id": "m_033_anand_restaurant_bangalore",
+  "customer_id": null,
+  "payload": {
+    "festival": "Eid",
+    "days_until": 13
+  },
+  "urgency": 1,
+  "suppression_key": "festival_upcoming:m_033_anand_restaurant_bangalore:gen_61",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

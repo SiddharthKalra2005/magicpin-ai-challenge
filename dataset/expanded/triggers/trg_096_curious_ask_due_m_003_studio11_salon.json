@@ -1,0 +1,14 @@
+{
+  "id": "trg_096_curious_ask_due_m_003_studio11_salon",
+  "scope": "merchant",
+  "kind": "curious_ask_due",
+  "source": "internal",
+  "merchant_id": "m_003_studio11_salon_hyderabad",
+  "customer_id": null,
+  "payload": {
+    "ask_template": "how_many_walk_ins_vs_appointments"
+  },
+  "urgency": 1,
+  "suppression_key": "curious_ask_due:m_003_studio11_salon_hyderabad:gen_96",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "trg_036_perf_spike_m_039_karan_gym_jaip",
+  "scope": "merchant",
+  "kind": "perf_spike",
+  "source": "internal",
+  "merchant_id": "m_039_karan_gym_jaipur",
+  "customer_id": null,
+  "payload": {
+    "metric": "directions",
+    "delta_pct": 0.23,
+    "vs_baseline": 1446,
+    "likely_driver": "review surge"
+  },
+  "urgency": 1,
+  "suppression_key": "perf_spike:m_039_karan_gym_jaipur:gen_36",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

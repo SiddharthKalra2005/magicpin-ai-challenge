@@ -1,0 +1,17 @@
+{
+  "id": "trg_054_review_theme_emerged_m_006_southindiancaf",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+  "customer_id": null,
+  "payload": {
+    "theme": "service speed",
+    "occurrences_30d": 6,
+    "trend": "rising",
+    "common_quote": "Consistently mentioned service speed in recent reviews"
+  },
+  "urgency": 3,
+  "suppression_key": "review_theme_emerged:m_006_southindiancafe_restaurant_bangalore:gen_54",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

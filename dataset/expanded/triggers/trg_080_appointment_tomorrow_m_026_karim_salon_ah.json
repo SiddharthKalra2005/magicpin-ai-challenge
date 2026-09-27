@@ -1,0 +1,16 @@
+{
+  "id": "trg_080_appointment_tomorrow_m_026_karim_salon_ah",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "merchant_id": "m_026_karim_salon_ahmedabad",
+  "customer_id": "c_102_anika_for_m_026_karim_salon_ahmedabad",
+  "payload": {
+    "service": "bridal makeup",
+    "slot_label": "2:00 PM",
+    "time": "2:00 PM"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_026_karim_salon_ahmedabad:gen_80",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

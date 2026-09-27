@@ -1,0 +1,15 @@
+{
+  "id": "trg_062_festival_upcoming_m_042_pooja_gym_pune",
+  "scope": "merchant",
+  "kind": "festival_upcoming",
+  "source": "external",
+  "merchant_id": "m_042_pooja_gym_pune",
+  "customer_id": null,
+  "payload": {
+    "festival": "Ganesh Chaturthi",
+    "days_until": 10
+  },
+  "urgency": 1,
+  "suppression_key": "festival_upcoming:m_042_pooja_gym_pune:gen_62",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

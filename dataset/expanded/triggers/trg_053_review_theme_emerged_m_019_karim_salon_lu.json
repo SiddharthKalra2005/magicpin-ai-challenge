@@ -1,0 +1,17 @@
+{
+  "id": "trg_053_review_theme_emerged_m_019_karim_salon_lu",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "merchant_id": "m_019_karim_salon_lucknow",
+  "customer_id": null,
+  "payload": {
+    "theme": "product quality",
+    "occurrences_30d": 9,
+    "trend": "stable",
+    "common_quote": "Consistently mentioned product quality in recent reviews"
+  },
+  "urgency": 3,
+  "suppression_key": "review_theme_emerged:m_019_karim_salon_lucknow:gen_53",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

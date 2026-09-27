@@ -1,0 +1,25 @@
+{
+  "id": "trg_070_recall_due_m_037_pooja_gym_bang",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "merchant_id": "m_037_pooja_gym_bangalore",
+  "customer_id": "c_148_kavya_for_m_037_pooja_gym_bangalore",
+  "payload": {
+    "service_due": "personal training check-in",
+    "last_service_date": "2026-04-01",
+    "available_slots": [
+      {
+        "label": "Wed 27 Nov, 6pm",
+        "iso": "2026-11-27T18:00:00Z"
+      },
+      {
+        "label": "Thu 28 Nov, 5pm",
+        "iso": "2026-11-28T17:00:00Z"
+      }
+    ]
+  },
+  "urgency": 3,
+  "suppression_key": "recall_due:m_037_pooja_gym_bangalore:gen_70",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

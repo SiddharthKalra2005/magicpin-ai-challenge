@@ -1,0 +1,17 @@
+{
+  "id": "trg_055_review_theme_emerged_m_036_roshni_gym_ahm",
+  "scope": "merchant",
+  "kind": "review_theme_emerged",
+  "source": "internal",
+  "merchant_id": "m_036_roshni_gym_ahmedabad",
+  "customer_id": null,
+  "payload": {
+    "theme": "equipment availability",
+    "occurrences_30d": 7,
+    "trend": "stable",
+    "common_quote": "Treadmills always occupied during peak hours"
+  },
+  "urgency": 3,
+  "suppression_key": "review_theme_emerged:m_036_roshni_gym_ahmedabad:gen_55",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

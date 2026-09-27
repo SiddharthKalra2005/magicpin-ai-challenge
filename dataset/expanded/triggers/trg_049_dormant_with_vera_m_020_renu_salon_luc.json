@@ -1,0 +1,15 @@
+{
+  "id": "trg_049_dormant_with_vera_m_020_renu_salon_luc",
+  "scope": "merchant",
+  "kind": "dormant_with_vera",
+  "source": "internal",
+  "merchant_id": "m_020_renu_salon_lucknow",
+  "customer_id": null,
+  "payload": {
+    "days_since_last_merchant_message": 16,
+    "last_topic": "offer setup"
+  },
+  "urgency": 2,
+  "suppression_key": "dormant_with_vera:m_020_renu_salon_lucknow:gen_49",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

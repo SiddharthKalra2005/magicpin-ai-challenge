@@ -1,0 +1,15 @@
+{
+  "id": "trg_074_customer_lapsed_soft_m_050_bharti_pharmac",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "merchant_id": "m_050_bharti_pharmacie_chennai",
+  "customer_id": "c_199_saanvi_for_m_050_bharti_pharmacie_chennai",
+  "payload": {
+    "days_since_last_visit": 131,
+    "previous_focus": "wellness"
+  },
+  "urgency": 3,
+  "suppression_key": "customer_lapsed_soft:m_050_bharti_pharmacie_chennai:gen_74",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trg_057_competitor_opened_m_035_manisha_gym_de",
+  "scope": "merchant",
+  "kind": "competitor_opened",
+  "source": "external",
+  "merchant_id": "m_035_manisha_gym_delhi",
+  "customer_id": null,
+  "payload": {
+    "competitor_name": "PowerZone Gym",
+    "distance_km": 1.6,
+    "their_offer": "No joining fee"
+  },
+  "urgency": 2,
+  "suppression_key": "competitor_opened:m_035_manisha_gym_delhi:gen_57",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

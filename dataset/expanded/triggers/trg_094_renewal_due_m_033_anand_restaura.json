@@ -1,0 +1,16 @@
+{
+  "id": "trg_094_renewal_due_m_033_anand_restaura",
+  "scope": "merchant",
+  "kind": "renewal_due",
+  "source": "internal",
+  "merchant_id": "m_033_anand_restaurant_bangalore",
+  "customer_id": null,
+  "payload": {
+    "days_remaining": 211,
+    "plan": "Pro",
+    "renewal_amount": 2999
+  },
+  "urgency": 4,
+  "suppression_key": "renewal_due:m_033_anand_restaurant_bangalore:gen_94",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

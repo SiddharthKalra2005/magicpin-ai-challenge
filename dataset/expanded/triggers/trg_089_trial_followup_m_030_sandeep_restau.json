@@ -1,0 +1,24 @@
+{
+  "id": "trg_089_trial_followup_m_030_sandeep_restau",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_030_sandeep_restaurant_chandigarh",
+  "customer_id": "c_118_aarav_for_m_030_sandeep_restaurant_chandigarh",
+  "payload": {
+    "trial_date": "2026-10-25",
+    "next_session_options": [
+      {
+        "label": "Mon 2 Nov, 7pm",
+        "iso": "2026-11-02T19:00:00Z"
+      },
+      {
+        "label": "Wed 4 Nov, 6pm",
+        "iso": "2026-11-04T18:00:00Z"
+      }
+    ]
+  },
+  "urgency": 2,
+  "suppression_key": "trial_followup:m_030_sandeep_restaurant_chandigarh:gen_89",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

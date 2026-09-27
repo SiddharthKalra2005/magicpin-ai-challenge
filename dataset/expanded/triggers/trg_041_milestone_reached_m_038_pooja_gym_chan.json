@@ -1,0 +1,16 @@
+{
+  "id": "trg_041_milestone_reached_m_038_pooja_gym_chan",
+  "scope": "merchant",
+  "kind": "milestone_reached",
+  "source": "internal",
+  "merchant_id": "m_038_pooja_gym_chandigarh",
+  "customer_id": null,
+  "payload": {
+    "metric": "reviews",
+    "value_now": 243,
+    "milestone_value": 250
+  },
+  "urgency": 1,
+  "suppression_key": "milestone_reached:m_038_pooja_gym_chandigarh:gen_41",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

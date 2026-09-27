@@ -1,0 +1,19 @@
+{
+  "id": "trg_030_research_digest_m_020_renu_salon_luc",
+  "scope": "merchant",
+  "kind": "research_digest",
+  "source": "external",
+  "merchant_id": "m_020_renu_salon_lucknow",
+  "customer_id": null,
+  "payload": {
+    "category": "salons",
+    "top_item_id": "d_2026W16_salo_digest",
+    "title": "Scalp microbiome study: weekly oiling reduces dandruff 42%",
+    "source": "IASCS 2026 Annual Report, p.8",
+    "trial_n": 800,
+    "patient_segment": "dandruff_prone"
+  },
+  "urgency": 1,
+  "suppression_key": "research_digest:m_020_renu_salon_lucknow:gen_30",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

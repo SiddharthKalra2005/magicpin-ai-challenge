@@ -1,0 +1,15 @@
+{
+  "id": "trg_063_festival_upcoming_m_011_dr_sameer_dent",
+  "scope": "merchant",
+  "kind": "festival_upcoming",
+  "source": "external",
+  "merchant_id": "m_011_dr_sameer_dentist_bangalore",
+  "customer_id": null,
+  "payload": {
+    "festival": "Navratri",
+    "days_until": 8
+  },
+  "urgency": 1,
+  "suppression_key": "festival_upcoming:m_011_dr_sameer_dentist_bangalore:gen_63",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

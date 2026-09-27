@@ -1,0 +1,19 @@
+{
+  "id": "trg_034_perf_dip_m_006_southindiancaf",
+  "scope": "merchant",
+  "kind": "perf_dip",
+  "source": "internal",
+  "merchant_id": "m_006_southindiancafe_restaurant_bangalore",
+  "customer_id": null,
+  "payload": {
+    "metric": "leads",
+    "delta_pct": -0.18,
+    "vs_baseline": 14168,
+    "likely_driver": "competitor price cut",
+    "is_expected_seasonal": true,
+    "season_note": ""
+  },
+  "urgency": 3,
+  "suppression_key": "perf_dip:m_006_southindiancafe_restaurant_bangalore:gen_34",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

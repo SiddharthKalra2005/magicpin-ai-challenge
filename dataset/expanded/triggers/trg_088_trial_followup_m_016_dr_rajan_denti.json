@@ -1,0 +1,24 @@
+{
+  "id": "trg_088_trial_followup_m_016_dr_rajan_denti",
+  "scope": "customer",
+  "kind": "trial_followup",
+  "source": "internal",
+  "merchant_id": "m_016_dr_rajan_dentist_pune",
+  "customer_id": "c_062_riya_for_m_016_dr_rajan_dentist_pune",
+  "payload": {
+    "trial_date": "2026-10-25",
+    "next_session_options": [
+      {
+        "label": "Mon 4 Nov, 7pm",
+        "iso": "2026-11-04T19:00:00Z"
+      },
+      {
+        "label": "Wed 6 Nov, 6pm",
+        "iso": "2026-11-06T18:00:00Z"
+      }
+    ]
+  },
+  "urgency": 2,
+  "suppression_key": "trial_followup:m_016_dr_rajan_dentist_pune:gen_88",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

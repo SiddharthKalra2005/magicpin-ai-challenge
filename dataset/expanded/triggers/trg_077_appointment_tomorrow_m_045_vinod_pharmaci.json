@@ -1,0 +1,16 @@
+{
+  "id": "trg_077_appointment_tomorrow_m_045_vinod_pharmaci",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "merchant_id": "m_045_vinod_pharmacie_mumbai",
+  "customer_id": "c_180_diya_for_m_045_vinod_pharmacie_mumbai",
+  "payload": {
+    "service": "health screening",
+    "slot_label": "6:30 PM",
+    "time": "6:30 PM"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_045_vinod_pharmacie_mumbai:gen_77",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trg_072_customer_lapsed_soft_m_014_dr_asha_dentis",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "merchant_id": "m_014_dr_asha_dentist_chandigarh",
+  "customer_id": "c_055_reyansh_for_m_014_dr_asha_dentist_chandigarh",
+  "payload": {
+    "days_since_last_visit": 175,
+    "previous_focus": "checkup"
+  },
+  "urgency": 3,
+  "suppression_key": "customer_lapsed_soft:m_014_dr_asha_dentist_chandigarh:gen_72",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

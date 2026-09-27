@@ -1,0 +1,14 @@
+{
+  "id": "trg_098_curious_ask_due_m_049_komal_pharmaci",
+  "scope": "merchant",
+  "kind": "curious_ask_due",
+  "source": "internal",
+  "merchant_id": "m_049_komal_pharmacie_lucknow",
+  "customer_id": null,
+  "payload": {
+    "ask_template": "how_many_chronic_rx_customers_this_week"
+  },
+  "urgency": 1,
+  "suppression_key": "curious_ask_due:m_049_komal_pharmacie_lucknow:gen_98",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

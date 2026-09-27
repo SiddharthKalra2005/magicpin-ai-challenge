@@ -1,0 +1,16 @@
+{
+  "id": "trg_078_appointment_tomorrow_m_045_vinod_pharmaci",
+  "scope": "customer",
+  "kind": "appointment_tomorrow",
+  "source": "internal",
+  "merchant_id": "m_045_vinod_pharmacie_mumbai",
+  "customer_id": "c_177_myra_for_m_045_vinod_pharmacie_mumbai",
+  "payload": {
+    "service": "prescription pickup",
+    "slot_label": "10:00 AM",
+    "time": "10:00 AM"
+  },
+  "urgency": 2,
+  "suppression_key": "appointment_tomorrow:m_045_vinod_pharmacie_mumbai:gen_78",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

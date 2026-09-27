@@ -1,0 +1,16 @@
+{
+  "id": "trg_056_competitor_opened_m_009_apollo_pharmac",
+  "scope": "merchant",
+  "kind": "competitor_opened",
+  "source": "external",
+  "merchant_id": "m_009_apollo_pharmacy_jaipur",
+  "customer_id": null,
+  "payload": {
+    "competitor_name": "QuickMeds",
+    "distance_km": 2.1,
+    "their_offer": "Free home delivery"
+  },
+  "urgency": 2,
+  "suppression_key": "competitor_opened:m_009_apollo_pharmacy_jaipur:gen_56",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

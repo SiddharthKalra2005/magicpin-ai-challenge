@@ -1,0 +1,16 @@
+{
+  "id": "trg_091_renewal_due_m_040_karan_gym_ahme",
+  "scope": "merchant",
+  "kind": "renewal_due",
+  "source": "internal",
+  "merchant_id": "m_040_karan_gym_ahmedabad",
+  "customer_id": null,
+  "payload": {
+    "days_remaining": 3,
+    "plan": "Trial",
+    "renewal_amount": 0
+  },
+  "urgency": 4,
+  "suppression_key": "renewal_due:m_040_karan_gym_ahmedabad:gen_91",
+  "expires_at": "2026-06-30T00:00:00Z"
+}

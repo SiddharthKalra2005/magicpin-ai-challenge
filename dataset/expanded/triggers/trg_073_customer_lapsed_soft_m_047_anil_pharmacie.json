@@ -1,0 +1,15 @@
+{
+  "id": "trg_073_customer_lapsed_soft_m_047_anil_pharmacie",
+  "scope": "customer",
+  "kind": "customer_lapsed_soft",
+  "source": "internal",
+  "merchant_id": "m_047_anil_pharmacie_chandigarh",
+  "customer_id": "c_188_aarav_for_m_047_anil_pharmacie_chandigarh",
+  "payload": {
+    "days_since_last_visit": 93,
+    "previous_focus": "chronic rx"
+  },
+  "urgency": 3,
+  "suppression_key": "customer_lapsed_soft:m_047_anil_pharmacie_chandigarh:gen_73",
+  "expires_at": "2026-06-30T00:00:00Z"
+}
